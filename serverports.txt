@@ -1,0 +1,26 @@
+1) What is the definition of a server port?
+Server port is a communication endpoint used by the server to listen for incoming requests from clients. Each port is identified by a unique number (1–65535) and is associated with specific services or protocols.
+
+2) What is the server port range?
+1 to 65535, divided into three ranges: well-known ports (1–1023), registered ports (1024–49151), and dynamic/private ports (49152–65535).
+
+3) How many bits does the number above represent?
+16 bits.
+Explanation:
+The maximum value of a server port is 65535.
+- To find how many bits represent 65535, calculate 
+- 2^16 = 65536, which means 16 bits are required to represent port numbers.
+
+4) State 10 common server ports
+The answer is:
+
+Port 21: FTP (File Transfer Protocol)
+Port 22: SSH (Secure Shell)
+Port 23: Telnet
+Port 25: SMTP (Simple Mail Transfer Protocol)
+Port 53: DNS (Domain Name System)
+Port 80: HTTP (HyperText Transfer Protocol)
+Port 110: POP3 (Post Office Protocol 3)
+Port 143: IMAP (Internet Message Access Protocol)
+Port 443: HTTPS (HTTP Secure)
+Port 3306: MySQL Database
