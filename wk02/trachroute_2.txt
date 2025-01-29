@@ -1,0 +1,17 @@
+Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+
+Tracing route to 165.227.42.177 over a maximum of 30 hops
+
+  1     2 ms     1 ms     2 ms  RT-AX92U-A670 [192.168.50.1]
+  2    20 ms    23 ms    26 ms  206.176.145.161
+  3    22 ms    18 ms    19 ms  136.143.208.110
+  4     *        *        *     Request timed out.
+  5    22 ms    20 ms    12 ms  135.0.199.109
+  6    22 ms    21 ms    18 ms  e0-34.switch4.tor2.he.net [216.66.32.177]
+  7    26 ms    25 ms    20 ms  port-channel12.core2.tor1.he.net [184.104.189.86]
+  8    21 ms    18 ms    21 ms  digitalocean-tor1-edge2.ip4.torontointernetxchange.net [206.108.3
+5.15]
+  9    19 ms    22 ms    19 ms  143.244.224.46
+ 10     *        *        *     Request timed out.
+ 11     *        *
