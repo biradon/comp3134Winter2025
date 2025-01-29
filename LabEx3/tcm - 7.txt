@@ -1,0 +1,56 @@
+root@lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+19:09:39.521634 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 2061426227:2061426271, ack 2060786772, win 501, length 44
+19:09:39.521712 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44:96, ack 1, win 501, length 52
+19:09:39.521752 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 96:164, ack 1, win 501, length 68
+19:09:39.521787 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 164:232, ack 1, win 501, length 68
+19:09:39.521819 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 232:268, ack 1, win 501, length 36
+19:09:39.529072 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 268, win 2046, length 0
+19:09:40.158061 IP ec2-43-216-217-74.ap-southeast-5.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 26, seq 8393, length 48
+19:09:40.158120 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-43-216-217-74.ap-southeast-5.compute.amazonaws.com: ICMP echo reply, id 26, seq 8393, length 48
+19:09:40.370531 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789619206 ecr 1366437353,nop,wscale 7], length 0
+19:09:41.340512 IP 218.92.0.171.34645 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [S], seq 2031403729, win 29200, options [mss 1460,sackOK,TS val 1366438104 ecr 0,nop,wscale 7], length 0
+19:09:41.340568 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789620176 ecr 1366437353,nop,wscale 7], length 0
+19:09:42.546479 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.52378: Flags [S.], seq 1051444454, ack 1491952731, win 65160, options [mss 1460,sackOK,TS val 789621382 ecr 1366436101,nop,wscale 7], length 0
+19:09:43.346481 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789622182 ecr 1366437353,nop,wscale 7], length 0
+19:09:43.361235 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [S], seq 825011675, win 29200, options [mss 1460,sackOK,TS val 1366438604 ecr 0,nop,wscale 7], length 0
+19:09:43.361308 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [S.], seq 1823871074, ack 825011676, win 65160, options [mss 1460,sackOK,TS val 789622196 ecr 1366438604,nop,wscale 7], length 0
+19:09:43.587942 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 1366438660 ecr 789622196], length 0
+19:09:43.587943 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [P.], seq 1:16, ack 1, win 229, options [nop,nop,TS val 1366438660 ecr 789622196], length 15
+19:09:43.600563 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 1:43, ack 1, win 510, options [nop,nop,TS val 789622436 ecr 1366438660], length 42: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10
+19:09:43.826787 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 43, win 229, options [nop,nop,TS val 1366438720 ecr 789622436], length 0
+19:09:44.269820 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [P.], seq 16:872, ack 43, win 229, options [nop,nop,TS val 1366438831 ecr 789622436], length 856
+19:09:44.952817 IP 218.92.0.171.15604 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [P.], seq 1:872, ack 43, win 229, options [nop,nop,TS val 1366439002 ecr 789622436], length 871: SSH: SSH-2.0-PUTTY
+19:09:44.952892 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [.], ack 872, win 504, options [nop,nop,TS val 789623788 ecr 1366439002], length 0
+19:09:44.954636 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789623790 ecr 1366439002], length 1112
+19:09:45.618478 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789624454 ecr 1366439002], length 1112
+19:09:46.322508 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789625158 ecr 1366439002], length 1112
+19:09:47.410493 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789626246 ecr 1366437353,nop,wscale 7], length 0
+19:09:47.698489 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789626534 ecr 1366439002], length 1112
+19:09:50.482482 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789629318 ecr 1366439002], length 1112
+19:09:50.738472 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.52378: Flags [S.], seq 1051444454, ack 1491952731, win 65160, options [mss 1460,sackOK,TS val 789629574 ecr 1366436101,nop,wscale 7], length 0
+19:09:55.602532 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789634438 ecr 1366437353,nop,wscale 7], length 0
+19:09:56.116621 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789634952 ecr 1366439002], length 1112
+19:09:57.835592 IP 147.185.132.126.56142 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.9983: Flags [S], seq 3798525938, win 65535, options [mss 1460], length 0
+19:10:04.774268 IP ec2-13-125-165-109.ap-northeast-2.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 3, seq 19930, length 48
+19:10:04.774332 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-13-125-165-109.ap-northeast-2.compute.amazonaws.com: ICMP echo reply, id 3, seq 19930, length 48
+19:10:04.850260 IP ec2-43-203-128-203.ap-northeast-2.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 3, seq 24074, length 48
+19:10:04.850328 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-43-203-128-203.ap-northeast-2.compute.amazonaws.com: ICMP echo reply, id 3, seq 24074, length 48
+19:10:05.981354 IP 89.248.163.68.44335 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.1356: Flags [S], seq 1046721316, win 1024, length 0
+19:10:06.866524 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.52378: Flags [S.], seq 1051444454, ack 1491952731, win 65160, options [mss 1460,sackOK,TS val 789645702 ecr 1366436101,nop,wscale 7], length 0
+19:10:07.070321 IP 218.92.0.171.52378 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [R], seq 1491952731, win 0, length 0
+19:10:07.123763 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.15604: Flags [P.], seq 43:1155, ack 872, win 504, options [nop,nop,TS val 789645959 ecr 1366439002], length 1112
+19:10:08.314023 IP recyber.net.56748 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.33391: Flags [S], seq 784998021, win 1024, length 0
+19:10:11.730580 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 218.92.0.171.34645: Flags [S.], seq 2495037852, ack 2031403730, win 65160, options [mss 1460,sackOK,TS val 789650566 ecr 1366437353,nop,wscale 7], length 0
+19:10:11.934981 IP 218.92.0.171.34645 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [R], seq 2031403730, win 0, length 0
+19:10:11.986454 ARP, Request who-has _gateway tell lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01, length 28
+19:10:11.987478 ARP, Reply _gateway is-at fe:00:00:00:01:01 (oui Unknown), length 46
+19:10:14.254655 IP ec2-3-38-145-201.ap-northeast-2.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 4, seq 5875, length 48
+19:10:14.254711 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-3-38-145-201.ap-northeast-2.compute.amazonaws.com: ICMP echo reply, id 4, seq 5875, length 48
+19:10:14.496220 IP ec2-43-217-6-186.ap-southeast-5.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 26, seq 8393, length 48
+19:10:14.496268 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-43-217-6-186.ap-southeast-5.compute.amazonaws.com: ICMP echo reply, id 26, seq 8393, length 48
+19:10:14.535745 IP ec2-43-216-178-130.ap-southeast-5.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 26, seq 8393, length 48
+19:10:14.535796 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-43-216-178-130.ap-southeast-5.compute.amazonaws.com: ICMP echo reply, id 26, seq 8393, length 48
+19:10:15.269767 IP ec2-3-36-44-237.ap-northeast-2.compute.amazonaws.com > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 3, seq 23706, length 48
+19:10:15.269831 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > ec2-3-36-44-237.ap-northeast-2.compute.amazonaws.com: ICMP echo reply, id 3, seq 23706, length 48
+^C19:10:18.917581 IP 59-126-223-217.hinet-ip.hinet.net.51489 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.telnet: Flags [S], seq 2783128241, win 54516, length 0

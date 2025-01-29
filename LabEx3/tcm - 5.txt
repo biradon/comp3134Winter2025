@@ -1,0 +1,31 @@
+tcpdump -XX -i eth0 
+
+
+0x2f90:  f199 03da bb29 291c 1934 8abc 52b2 f6dc  .....))..4..R...
+        0x2fa0:  aaa7 1435 1705 4263 0293 24cf b58d 0293  ...5..Bc..$.....
+        0x2fb0:  c0cc 72db aeef 73b4 017f 1adf ab63 ad6c  ..r...s......c.l
+        0x2fc0:  0723 6e59 b56c 6571 9734 7672 4007 8bf6  .#nY.leq.4vr@...
+        0x2fd0:  bc6f 6710 891c eca7 ba60 5d41 a0ba 1897  .og......`]A....
+        0x2fe0:  728c f2ad b1bd 2d71 c294 8eee 87ba 9739  r.....-q.......9
+        0x2ff0:  5a94 8604 f171 e95e 4bb3 7212 94b7 4ff5  Z....q.^K.r...O.
+        0x3000:  c421 fd0e ce59 6ef8 3ff9 a0b0 0f1a d77d  .!...Yn.?......}
+        0x3010:  c3fc efcf 2b7b 978b d5de d57f 73d8 45a5  ....+{......s.E.
+        0x3020:  a50b a260 d834 91c7 983b c9c9 2d3f c6e8  ...`.4...;..-?..
+        0x3030:  30eb e559 a91d feff 7182 9271 7204 bb0a  0..Y....q..qr...
+        0x3040:  9c50 f999 1db0 a05f 289e 81a3 b249 c5c8  .P....._(....I..
+        0x3050:  eb04 dcd7 ef0d 398a 1c39 0958 996b 5574  ......9..9.X.kUt
+        0x3060:  65bc 439f 2f8d 3d8d 5a11 6c44 b797 fbec  e.C./.=.Z.lD....
+        0x3070:  1846 3e51 1a45 89ea 9758 f00c 97f5 eb4c  .F>Q.E...X.....L
+        0x3080:  49dc 61aa 3f2c fc5f 0c6a c3c8 8219 afd5  I.a.?,._.j......
+        0x3090:  0600 b3f7 5e73 603e c904 9426 12b4 25b3  ....^s`>...&..%.
+        0x30a0:  5075 7031 f9a0 8995 8d30 6d25 f414 1829  Pup1.....0m%...)
+        0x30b0:  35d9 8fc6 5416 67c0 58ef 6ea2 5794 d7ed  5...T.g.X.n.W...
+        0x30c0:  0746 133e 3c1e 393c cd88 0300 6f16 2aea  .F.><.9<....o.*.
+        0x30d0:  2f45 2fad 84c5 b26f c809 63fb 2a22 acd6  /E/....o..c.*"..
+        0x30e0:  3bc3 f085 6f58 ac1a f77b 6bef a1c8 c9a6  ;...oX...{k.....
+        0x30f0:  8973 00f9 e102 c0b5 60ba a8fe cf49 5c33  .s......`....I\3
+        0x3100:  6757 0a8e b777 9b4c a9cc                 gW...w.L..
+
+1119 packets captured
+14508 packets received by filter
+10285 packets dropped by kernel
