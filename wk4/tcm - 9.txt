@@ -1,0 +1,113 @@
+th 340
+19:13:50.836303 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 36788:37128, ack 37, win 501, length 340
+19:13:50.836343 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 37128:37468, ack 37, win 501, length 340
+19:13:50.836384 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 37468:37808, ack 37, win 501, length 340
+19:13:50.836434 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 37808:38148, ack 37, win 501, length 340
+19:13:50.836498 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 38148:38184, ack 37, win 501, length 36
+19:13:50.836536 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 38184:38372, ack 37, win 501, length 188
+19:13:50.836588 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 38372:38560, ack 37, win 501, length 188
+19:13:50.836649 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 38560:38900, ack 37, win 501, length 340
+19:13:50.836728 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 38900:39392, ack 37, win 501, length 492
+19:13:50.836786 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 39392:39732, ack 37, win 501, length 340
+19:13:50.836844 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 39732:40224, ack 37, win 501, length 492
+19:13:50.836916 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 40224:40564, ack 37, win 501, length 340
+19:13:50.836975 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 40564:41056, ack 37, win 501, length 492
+19:13:50.837047 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 41056:41396, ack 37, win 501, length 340
+19:13:50.837070 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 41396:41432, ack 37, win 501, length 36
+19:13:50.837116 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 41432:41620, ack 37, win 501, length 188
+19:13:50.837178 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 41620:41960, ack 37, win 501, length 340
+19:13:50.837244 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 41960:42300, ack 37, win 501, length 340
+19:13:50.837327 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 42300:42792, ack 37, win 501, length 492
+19:13:50.837388 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 42792:43132, ack 37, win 501, length 340
+19:13:50.837445 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 43132:43472, ack 37, win 501, length 340
+19:13:50.837489 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 43472:43812, ack 37, win 501, length 340
+19:13:50.837530 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 43812:44152, ack 37, win 501, length 340
+19:13:50.837716 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44152:44492, ack 37, win 501, length 340
+19:13:50.837745 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44492:44528, ack 37, win 501, length 36
+19:13:50.837775 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44528:44716, ack 37, win 501, length 188
+19:13:50.837797 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44716:44752, ack 37, win 501, length 36
+19:13:50.837826 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44752:44940, ack 37, win 501, length 188
+19:13:50.837846 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44940:44976, ack 37, win 501, length 36
+19:13:50.837875 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 44976:45164, ack 37, win 501, length 188
+19:13:50.837895 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 45164:45200, ack 37, win 501, length 36
+19:13:50.837925 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 45200:45388, ack 37, win 501, length 188
+19:13:50.838029 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 45388:45880, ack 37, win 501, length 492
+19:13:50.838086 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 45880:46324, ack 37, win 501, length 444
+19:13:50.838128 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46324:46496, ack 37, win 501, length 172
+19:13:50.838514 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 31972, win 2050, length 0
+19:13:50.841521 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 43472, win 2050, length 0
+19:13:50.841801 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 46496, win 2050, length 0
+19:13:50.938708 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46496:46684, ack 37, win 501, length 188
+19:13:50.938772 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46684:46720, ack 37, win 501, length 36
+19:13:50.938826 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46720:46908, ack 37, win 501, length 188
+19:13:50.938853 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46908:46944, ack 37, win 501, length 36
+19:13:50.938886 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 46944:47132, ack 37, win 501, length 188
+19:13:50.938943 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 47132:47472, ack 37, win 501, length 340
+19:13:50.938999 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 47472:47660, ack 37, win 501, length 188
+19:13:50.939032 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 47660:47848, ack 37, win 501, length 188
+19:13:50.939098 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 47848:48188, ack 37, win 501, length 340
+19:13:50.939154 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 48188:48680, ack 37, win 501, length 492
+19:13:50.939295 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 48680:49020, ack 37, win 501, length 340
+19:13:50.939336 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49020:49056, ack 37, win 501, length 36
+19:13:50.939407 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49056:49244, ack 37, win 501, length 188
+19:13:50.939435 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49244:49280, ack 37, win 501, length 36
+19:13:50.939477 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49280:49468, ack 37, win 501, length 188
+19:13:50.939505 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49468:49504, ack 37, win 501, length 36
+19:13:50.939582 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49504:49844, ack 37, win 501, length 340
+19:13:50.939702 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 49844:50632, ack 37, win 501, length 788
+19:13:50.939782 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 50632:50972, ack 37, win 501, length 340
+19:13:50.939864 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 50972:51464, ack 37, win 501, length 492
+19:13:50.940044 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 51464:52404, ack 37, win 501, length 940
+19:13:50.940098 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 52404:52744, ack 37, win 501, length 340
+19:13:50.940150 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 52744:53236, ack 37, win 501, length 492
+19:13:50.940202 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 53236:53728, ack 37, win 501, length 492
+19:13:50.940249 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 53728:54068, ack 37, win 501, length 340
+19:13:50.940341 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 54068:54408, ack 37, win 501, length 340
+19:13:50.940442 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 54408:55052, ack 37, win 501, length 644
+19:13:50.940522 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 55052:55544, ack 37, win 501, length 492
+19:13:50.940587 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 55544:55732, ack 37, win 501, length 188
+19:13:50.940634 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 55732:55920, ack 37, win 501, length 188
+19:13:50.940728 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 55920:56260, ack 37, win 501, length 340
+19:13:50.940798 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 56260:56600, ack 37, win 501, length 340
+19:13:50.940856 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 56600:56940, ack 37, win 501, length 340
+19:13:50.940933 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 56940:57432, ack 37, win 501, length 492
+19:13:50.940988 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 57432:57772, ack 37, win 501, length 340
+19:13:50.941043 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 57772:58112, ack 37, win 501, length 340
+19:13:50.941102 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 58112:58452, ack 37, win 501, length 340
+19:13:50.941162 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 58452:58792, ack 37, win 501, length 340
+19:13:50.941222 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 58792:59132, ack 37, win 501, length 340
+19:13:50.941282 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 59132:59472, ack 37, win 501, length 340
+19:13:50.941345 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 59472:59812, ack 37, win 501, length 340
+19:13:50.941437 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 59812:60136, ack 37, win 501, length 324
+19:13:50.941496 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 60136:60308, ack 37, win 501, length 172
+19:13:50.941551 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 60308:60480, ack 37, win 501, length 172
+19:13:50.942177 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 48680, win 2050, length 0
+19:13:50.942705 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 51464, win 2050, length 0
+19:13:50.944453 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 60308, win 2050, length 0
+19:13:50.944702 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 60480, win 2050, length 0
+19:13:51.042811 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 60480:62172, ack 37, win 501, length 1692
+19:13:51.043022 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 62172:64624, ack 37, win 501, length 2452
+19:13:51.043088 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 64624:65268, ack 37, win 501, length 644
+19:13:51.043139 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 65268:65760, ack 37, win 501, length 492
+19:13:51.043184 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 65760:66100, ack 37, win 501, length 340
+19:13:51.043233 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 66100:66592, ack 37, win 501, length 492
+19:13:51.043274 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 66592:66932, ack 37, win 501, length 340
+19:13:51.043315 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 66932:67272, ack 37, win 501, length 340
+19:13:51.043367 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 67272:67596, ack 37, win 501, length 324
+19:13:51.043432 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 67596:68040, ack 37, win 501, length 444
+19:13:51.043469 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 68040:68076, ack 37, win 501, length 36
+19:13:51.046552 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 68076, win 2050, length 0
+19:13:51.146659 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 68076:68264, ack 37, win 501, length 188
+19:13:51.146741 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 68264:68604, ack 37, win 501, length 340
+19:13:51.146791 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 68604:68944, ack 37, win 501, length 340
+19:13:51.146846 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 68944:69284, ack 37, win 501, length 340
+19:13:51.146922 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 69284:69776, ack 37, win 501, length 492
+19:13:51.146996 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 69776:70100, ack 37, win 501, length 324
+19:13:51.147046 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 70100:70136, ack 37, win 501, length 36
+19:13:51.170474 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh > 198.96.85.21.51536: Flags [P.], seq 70100:70136, ack 37, win 501, length 36
+19:13:51.242822 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 70136, win 2050, length 0
+19:13:51.243021 IP 198.96.85.21.51536 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01.ssh: Flags [.], ack 70136, win 2050, options [nop,nop,sack 1 {70100:70136}], length 0
+
+379 packets captured
+388 packets received by filter
+0 packets dropped by kernel
