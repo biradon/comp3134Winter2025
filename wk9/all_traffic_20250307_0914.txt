@@ -1,0 +1,21 @@
+lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1  => 198.96.85.21                                   1.02Kb  1.22Kb  2.46Kb
+                                              <=                                                 160b    189b    444b
+lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1  => 67.207.67.2                                    1.71Kb   350b    657b
+                                              <=                                                2.09Kb   428b    961b
+lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1  => happy.census.internet-measurement.com             0b      0b      0b
+                                              <=                                                 176b     35b     12b
+lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1  => 18.171.82.58.static-corp.jastel.co.th             0b      0b      0b
+                                              <=                                                   0b      0b     11b
+lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1  => 45-79-155-114.ip.linodeusercontent.com            0b      0b      0b
+                                              <=                                                   0b      0b     11b
+
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+14:20:45.632061 IP 198.96.85.21 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 1, seq 13, length 40
+14:20:45.632120 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 13, length 40
+14:20:46.641255 IP 198.96.85.21 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 1, seq 14, length 40
+14:20:46.641308 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 14, length 40
+14:20:47.650097 IP 198.96.85.21 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 1, seq 15, length 40
+14:20:47.650158 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 15, length 40
+14:20:48.675260 IP 198.96.85.21 > lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01: ICMP echo request, id 1, seq 16, length 40
+14:20:48.675309 IP lamponubuntu2204-s-1vcpu-1gb-35gb-intel-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 16, length 40
