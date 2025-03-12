@@ -1,0 +1,1 @@
+strip_tags() doesn't escape characters, so it's better to use htmlspecialchars().
