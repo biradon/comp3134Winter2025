@@ -1,0 +1,6 @@
+I see the warning message
+
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+
+The sensitive information here is it showing where my file located in my server

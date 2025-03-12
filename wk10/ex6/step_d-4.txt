@@ -1,0 +1,4 @@
+• What you see on the browser (the issue)
+=> The whole directory of my directory in the upper level
+• What sensitive information is given by this page
+=> All of the configuration from my server is leaked

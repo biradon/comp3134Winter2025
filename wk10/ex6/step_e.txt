@@ -1,0 +1,12 @@
+Mitigation Plan for Directory Traversal Vulnerability (Step G):
+
+1. **Prevent Directory Traversal**:
+   - We used the `basename()` function to sanitize user input, ensuring that no directory traversal (`../`) is possible. This limits the user to valid directories within the allowed web root.
+
+2. **Ensure Directory Exists**:
+   - We utilized `file_exists()` and `is_dir()` to check if the user-provided directory exists and is a directory before attempting to list its contents. This avoids errors and security risks when accessing non-existent directories.
+
+3. **Prevent Filename Access**:
+   - We checked if the input contains a dot (`.`), which would indicate a filename (e.g., `index.php`). This ensures that only directories can be accessed, preventing any attempts to view specific files.
+
+By implementing these changes, we ensure that the script does not allow directory traversal, does not show files, and does not attempt to list non-existent directories.

@@ -1,0 +1,15 @@
+To mitigate the issues in Step G, the following security measures have been implemented:
+
+1. **Prevent directory traversal attacks**  
+   - Used `basename($path)` to ensure that users can only access a specific folder.  
+   - This prevents attackers from accessing parent directories using `../` (e.g., `../../etc/passwd`).  
+
+2. **Ensure the directory exists before scanning**  
+   - Used `file_exists($safe_path) && is_dir($safe_path)` to check if the requested directory is valid.  
+   - If the directory does not exist, an error message is displayed instead of executing `scandir()`.  
+
+3. **Prevent users from accessing files instead of directories (Bonus fix)**  
+   - Used `strpos($safe_path, '.') !== false` to block any request containing a dot (`.`).  
+   - This prevents accessing filenames like `index.php` or hidden files like `.htaccess`.  
+
+By applying these mitigations, we ensure that only valid directories can be accessed while protecting against security risks.
