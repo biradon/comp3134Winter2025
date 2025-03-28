@@ -1,0 +1,3 @@
+- Redirect users to malicious sites
+- Steal session cookies
+- Perform other client-side attacks
